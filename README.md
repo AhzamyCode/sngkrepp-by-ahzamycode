@@ -1,4 +1,4 @@
-<h1 align="center">🚫 JANGAN DI JUAL BANGGG 🚫</h1>
+<h1 align="center"> JANGAN DI JUAL BANGGG </h1>
 
 <p align="center">
   <strong>Created by <a href="https://github.com/Ahzamycode">Ahzamycode</a></strong><br>
