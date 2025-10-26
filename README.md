@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Created by <a href="https://github.com/Ahzamycode">Ahzamycode</a></strong><br>
-  Licensed under <a href="https://opensource.org/licenses/MIT">MIT License</a>
 </p>
 
 <p align="center">
@@ -84,4 +83,4 @@ npm run build && npm start
 
 If you fork, use, or contribute — please give credit.
 Respect the work, bro. 🙏
-<p align="center"> Made with ❤️ by <strong>Ahzamycode</strong> <br></p> ```
+<p align="center"> Made with ❤️ by <strong>Ahzamycode</strong> <br></p> 
